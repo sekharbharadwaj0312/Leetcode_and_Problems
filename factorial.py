@@ -1,4 +1,4 @@
-num = 5
+num = int(input())
 factorial = 1
 if num < 0:
     print("Factorial does not exist for negative numbers")
